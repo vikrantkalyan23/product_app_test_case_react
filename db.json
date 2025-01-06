@@ -1,0 +1,9 @@
+{
+    "courses": [
+      { "id": 1, "name": "React Basics", "description": "Learn the basics of React." },
+      { "id": 2, "name": "Redux for Beginners", "description": "Understand state management with Redux." },
+      { "id": 3, "name": "PHP OOPS", "description": "Understand Object Oriented Concepts" }
+    ],
+    "enquiries": []
+  }
+  
